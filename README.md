@@ -11,15 +11,15 @@ and warranties. Never lose a warranty again!
 ## 📱 Screenshots
 
 <p align="center">
-  <img src="screenshots/home_screen.png" width="250" alt="Home Screen"/>
-  <img src="screenshots/add_receipt.png" width="250" alt="Add Receipt"/>
-  <img src="screenshots/camera_ocr.png" width="250" alt="Camera OCR"/>
+  <img src="screenshoots/home_screen.jpg" width="250" alt="Home Screen"/>
+  <img src="screenshoots/add_receipt_screen.jpg" width="250" alt="Add Receipt"/>
+  <img src="screenshoots/camera_screen.jpg" width="250" alt="Camera OCR"/>
 </p>
 
 <p align="center">
-  <img src="screenshots/detail_screen.png" width="250" alt="Detail Screen"/>
-  <img src="screenshots/search.png" width="250" alt="Search"/>
-  <img src="screenshots/categories.png" width="250" alt="Categories"/>
+  <img src="screenshoots/details_screen.jpg" width="250" alt="Detail Screen"/>
+  <img src="screenshoots/search_screen.jpg" width="250" alt="Search"/>
+  <img src="screenshoots/category_screen.jpg" width="250" alt="Categories"/>
 </p>
 
 ---
